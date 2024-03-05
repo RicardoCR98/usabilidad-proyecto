@@ -205,6 +205,10 @@ h2 {
   margin: 10px 0;
 }
 
+.card-evento span {
+  font-size: 20px;
+}
+
 .card-evento p {
   font-size: 18px;
   margin: 10px 0;
